@@ -22,19 +22,19 @@ main{
 
 #telefone{
     position: absolute;
-    top:50%;
+    top:56%;
     left:50%;
     transform: translate(-50%, -50%);
     height:627px;
     width:311px;
-    background:url('/imagens/frame-iphone1.png');
+    background:url('/imagens/frame-iphone.png') no-repeat;
 }
 iframe#tela {
  position: relative;
- top: 80px;
- left: 22px;
- width: 269px;
- height: 471px;
+ top: 60px;
+ left: 17.8px;
+ width: 199.9px;
+ height: 354px;
 }
 
 section#redes-sociais img{
