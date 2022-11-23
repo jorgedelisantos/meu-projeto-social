@@ -12,10 +12,10 @@ html, body{
 }
 body{
     background:url('/imagens/fundo-madeira.jpg') no-repeat ;
-    height: 700px;
-    background-size: cover;
+     background-size: cover;
     background-attachment: fixed;
 }
+  
 main{
     position: relative;
     height: 100vh;
@@ -36,6 +36,9 @@ main{
  left:23.1px;
  width:266px;
  height:470px;
+}
+section#redes-sociais{
+  text-align: right;
 }
   section#redes-sociais img{
 width:50px;
